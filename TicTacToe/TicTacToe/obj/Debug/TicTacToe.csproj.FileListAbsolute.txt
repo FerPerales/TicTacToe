@@ -1,0 +1,15 @@
+C:\Users\Fer\Downloads\TicTacToe\TicTacToe\TicTacToe\Bin\Debug\ApplicationIcon.png
+C:\Users\Fer\Downloads\TicTacToe\TicTacToe\TicTacToe\Bin\Debug\Background.png
+C:\Users\Fer\Downloads\TicTacToe\TicTacToe\TicTacToe\Bin\Debug\TicTacToe.dll
+C:\Users\Fer\Downloads\TicTacToe\TicTacToe\TicTacToe\Bin\Debug\TicTacToe.pdb
+C:\Users\Fer\Downloads\TicTacToe\TicTacToe\TicTacToe\Bin\Debug\AppManifest.xaml
+C:\Users\Fer\Downloads\TicTacToe\TicTacToe\TicTacToe\Bin\Debug\TicTacToe.xap
+C:\Users\Fer\Downloads\TicTacToe\TicTacToe\TicTacToe\Bin\Debug\Game.dll
+C:\Users\Fer\Downloads\TicTacToe\TicTacToe\TicTacToe\Bin\Debug\Game.pdb
+C:\Users\Fer\Downloads\TicTacToe\TicTacToe\TicTacToe\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fer\Downloads\TicTacToe\TicTacToe\TicTacToe\obj\Debug\App.g.i.cs
+C:\Users\Fer\Downloads\TicTacToe\TicTacToe\TicTacToe\obj\Debug\MainPage.g.i.cs
+C:\Users\Fer\Downloads\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.g.resources
+C:\Users\Fer\Downloads\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.dll
+C:\Users\Fer\Downloads\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\Fer\Downloads\TicTacToe\TicTacToe\TicTacToe\obj\Debug\XapCacheFile.xml
